@@ -10,8 +10,7 @@ StyleGAN2-ADA, StyleGAN3 ve Stable Diffusion modelleri ile görüntü üretimi i
 - **Toplu Görüntü Üretimi**: Birden fazla seed ile aynı anda görüntü üretimi
 - **Gelişmiş Parametreler**: Truncation, noise mode ve transform desteği
 - **Analiz Araçları**: Kapsamlı eğitim metrik analizi ve görselleştirme
-- **Otomatik Hata Yönetimi**: CUDA extension sorunları için otomatik CPU geçişi
-- **Temiz Kod Mimarisi**: SOLID prensipleri ve clean architecture uygulaması
+
 
 ## Kurulum
 
@@ -26,7 +25,7 @@ StyleGAN2-ADA, StyleGAN3 ve Stable Diffusion modelleri ile görüntü üretimi i
 1. **Projeyi klonlayın**
    ```bash
    git clone <repository-url>
-   cd GAN_Image_Generator
+   
    ```
 
 2. **Sanal ortam oluşturun**
